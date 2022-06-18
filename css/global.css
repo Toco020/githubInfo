@@ -1,0 +1,10 @@
+root {
+    --primary-color: hsl(263, 90%, 50%);
+    --dark-color: hsl(263, 90%, 35%);
+    --light-color: hsl(263, 76%, 65%);
+
+}
+
+nav .navbar{
+    background-color: var(--dark-color);
+}
